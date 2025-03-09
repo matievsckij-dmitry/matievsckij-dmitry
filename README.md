@@ -1,3 +1,4 @@
+ <link rel="stylesheet" href="style.css">  
 <h1 align="center">Привет👋 Меня зовут Дмитрий!</h1>
 
 ###
@@ -59,9 +60,9 @@
 
 #### Визуализация данных:
 <div style="display: flex; align-items: center;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98EumfCtICiwQ9Wujj5I593BgGsA0IALNNQ&s" width="100" alt="Matplotlib">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="100" alt="Plotly">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98EumfCtICiwQ9Wujj5I593BgGsA0IALNNQ&s" width="100" height="80" margin-left= "1000px" alt="Matplotlib">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="80" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="140" height="40" alt="Plotly">
 </div>
 
 #### ML модели:
