@@ -1,5 +1,5 @@
- <link rel="stylesheet" href="style.css">  
-<h1 align="center">Привет👋 Меня зовут Дмитрий!</h1>
+
+<h1 align="center" >Привет👋 Меня зовут Дмитрий!</h1>
 
 ###
 
@@ -36,41 +36,57 @@
 ###
 
 ## 🛠 Технологии:
-
-#### Языки:
-<div style="display: flex; align-items: center;">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="100" alt="Python">
-  <img src="https://appfox.ru/upload/resize_cache/iblock/748/1200_630_2/preview.jpg" width="100" alt="SQL"> <!-- SQL logo -->
-</div>
-
-#### Среды разработки:
-<div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" alt="VS Code">
+<table>
+<tr>
+  <th>Языки</th>
+  <th>Среды разработки</th>
+</tr> 
+<tr>
+  <td>
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="120" height="50" alt="Python">
+  <img height="12" /><img src="https://appfox.ru/upload/resize_cache/iblock/748/1200_630_2/preview.jpg" width="120" height="60" alt="SQL"> <!-- SQL logo -->
+   <img height="12" />
+   </td>
+   <td>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80" height="50" alt="VS Code">
+ <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" alt="Jupyter">
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" alt="Google Colab">
+   <img width="12" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="70" alt="Google Colab">
+   <img width="12" />
   <img src="https://lepkov.ru/wp-content/uploads/2021/08/Git_icon2.png" width="50" alt="Git">
-</div>
-
-#### Работа с данными:
-<div style="display: flex; align-items: center;">
-  <img src="https://pandas.pydata.org/static/img/pandas.svg" width="100" alt="Pandas">
+ </td>
+ </tr> 
+</table>
+<table>
+<tr>
+ <th>Работа с данными:</th>
+  <th>Визуализация данных:</th>
+  </tr>
+  <td> <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="80" alt="Spark"> <!-- Spark logo -->
+       <img width="12" />
+        <img src="https://pandas.pydata.org/static/img/pandas.svg" width="120" top="70" alt="Pandas">
+    <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" width="100" alt="NumPy">
-   <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="100" alt="Spark"> <!-- Spark logo -->
-</div>
-
-#### Визуализация данных:
-<div style="display: flex; align-items: center;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98EumfCtICiwQ9Wujj5I593BgGsA0IALNNQ&s" width="100" height="80" margin-left= "1000px" alt="Matplotlib">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="80" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->
+    <img width="12" /> </td>
+     <td>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98EumfCtICiwQ9Wujj5I593BgGsA0IALNNQ&s" width="100" height="60" alt="Matplotlib">
+     <img width="6" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="40" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->   <img width="6" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="140" height="40" alt="Plotly">
-</div>
+</td>
+</table>
+
 
 #### ML модели:
 <div style="display: flex; align-items: center;">
- <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100" alt="Scikit-learn">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="125" alt="TensorFlow">
-  <img src="https://keras.io/img/keras-logo-small-wb.png" width="50" alt="Keras">  <!-- Keras logo -->
+ <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" height="30" alt="Scikit-learn">
+  <img width="18" />
+  <img src="https://keras.io/img/keras-logo-small-wb.png" width="40" height="38"  alt="Keras">  <!-- Keras logo -->
   <!-- Add other ML libraries here -->
+   
+   <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="110" height="55" alt="TensorFlow">
+ 
 </div>
 
 ###
@@ -82,6 +98,7 @@
  - СберУниверситет: Модельный риск и мониторинг моделей [RUS](https://github.com/Stuksus/Stuksus/blob/main/model_risk.png)
  
 ###
+
 
 ## 📓 Курсы:
 <table>
