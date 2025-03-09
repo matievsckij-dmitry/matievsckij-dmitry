@@ -71,12 +71,17 @@
   <!-- Add other ML libraries here -->
 </div>
 
-# Сертификаты:
+###
+
+<h3 align="left">🎓 Сертификаты:</h3>
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
  - СберУниверситет: Финансовая оценка AI инициатив [RUS](https://github.com/Stuksus/Stuksus/blob/main/sber-university-AI.png)
  - СберУниверситет: Жизненный цикл DS/AI моделей [RUS](https://github.com/Stuksus/Stuksus/blob/main/AI_DS_life_cycle.png)
  - СберУниверситет: Модельный риск и мониторинг моделей [RUS](https://github.com/Stuksus/Stuksus/blob/main/model_risk.png)
-# Курсы:
+ 
+###
+
+<h3 align="left">📓 Курсы:</h3>
 <table>
 <tr>
   <th>Название курса</th>
