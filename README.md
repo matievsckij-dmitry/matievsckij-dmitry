@@ -74,7 +74,7 @@
 
 ###
 
-## 🎓 Сертификаты:
+### 🎓 Сертификаты:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
  - СберУниверситет: Финансовая оценка AI инициатив [RUS](https://github.com/Stuksus/Stuksus/blob/main/sber-university-AI.png)
  - СберУниверситет: Жизненный цикл DS/AI моделей [RUS](https://github.com/Stuksus/Stuksus/blob/main/AI_DS_life_cycle.png)
