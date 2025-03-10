@@ -63,17 +63,17 @@
  <th>Работа с данными:</th>
   <th>Визуализация данных:</th>
   </tr>
-  <td> <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="90" height="42" alt="Spark"> <!-- Spark logo -->
+  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"  height="80" alt="Spark"> <!-- Spark logo -->
        <img width="12" />
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" width="120" height="50" alt="NumPy">
-          <img src="https://pandas.pydata.org/static/img/pandas.svg" width="120" height="" alt="Pandas">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" height="80" alt="NumPy">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line-wordmark.svg"  height="80" alt="Pandas">
     <img width="12" />
      </td>
      <td>
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="100" height="60" alt="Matplotlib">
      <img width="6" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="60" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="130" height="55" alt="Plotly">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="80" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"  height="80" alt="Plotly">
 </td>
 </table>
 
