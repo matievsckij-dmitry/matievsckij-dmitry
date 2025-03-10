@@ -44,19 +44,17 @@
 </tr> 
 <tr>
   <td>
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="120" height="50" alt="Python">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="40" alt="Python">
   <img height="12" />
-  <img src="https://appfox.ru/upload/resize_cache/iblock/748/1200_630_2/preview.jpg" width="120" height="60" alt="SQL"> <!-- SQL logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="SQL"> <!-- SQL logo -->
    <img height="12" />
    </td>
 
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80" height="50" alt="VS Code">
+  <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VS Code">
  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" alt="Jupyter">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter">
    <img width="12" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="70" alt="Google Colab">
-   <img width="12" />
-  <img src="https://lepkov.ru/wp-content/uploads/2021/08/Git_icon2.png" width="60" height="60" alt="Git">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="40" alt="Git">
  </td>
  </tr> 
 </table>
