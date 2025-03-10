@@ -35,26 +35,28 @@
 
 ###
 
-## 🛠 Технологии:
+# 🛠 Технологии:
 <table>
 <tr>
   <th>Языки</th>
-  <th>Среды разработки</th>
+  <th>Среды разработки
+  </th>
 </tr> 
 <tr>
   <td>
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="120" height="50" alt="Python">
-  <img height="12" /><img src="https://appfox.ru/upload/resize_cache/iblock/748/1200_630_2/preview.jpg" width="120" height="60" alt="SQL"> <!-- SQL logo -->
+  <img height="12" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img height="12" />
    </td>
-   <td>
+
   <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="80" height="50" alt="VS Code">
  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" alt="Jupyter">
    <img width="12" />
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="70" alt="Google Colab">
    <img width="12" />
-  <img src="https://lepkov.ru/wp-content/uploads/2021/08/Git_icon2.png" width="50" alt="Git">
+  <img src="https://lepkov.ru/wp-content/uploads/2021/08/Git_icon2.png" width="60" height="60" alt="Git">
  </td>
  </tr> 
 </table>
@@ -63,17 +65,17 @@
  <th>Работа с данными:</th>
   <th>Визуализация данных:</th>
   </tr>
-  <td> <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="80" alt="Spark"> <!-- Spark logo -->
+  <td> <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="90" height="42" alt="Spark"> <!-- Spark logo -->
        <img width="12" />
-        <img src="https://pandas.pydata.org/static/img/pandas.svg" width="120" top="70" alt="Pandas">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" width="120" height="50" alt="NumPy">
+          <img src="https://pandas.pydata.org/static/img/pandas.svg" width="120" height="" alt="Pandas">
     <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" width="100" alt="NumPy">
-    <img width="12" /> </td>
+     </td>
      <td>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98EumfCtICiwQ9Wujj5I593BgGsA0IALNNQ&s" width="100" height="60" alt="Matplotlib">
      <img width="6" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="40" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->   <img width="6" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="140" height="40" alt="Plotly">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="60" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="130" height="55" alt="Plotly">
 </td>
 </table>
 
