@@ -44,17 +44,17 @@
 </tr> 
 <tr>
   <td>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="40" alt="Python">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="80" alt="Python">
   <img height="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="SQL"> <!-- SQL logo -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="80" alt="SQL"> <!-- SQL logo -->
    <img height="12" />
    </td>
 
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VS Code">
+  <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="80" alt="VS Code">
  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="80" alt="Jupyter">
    <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="40" alt="Git">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="80" alt="Git">
  </td>
  </tr> 
 </table>
