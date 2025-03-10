@@ -46,7 +46,7 @@
   <td>
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="120" height="50" alt="Python">
   <img height="12" />
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://appfox.ru/upload/resize_cache/iblock/748/1200_630_2/preview.jpg" width="120" height="60" alt="SQL"> <!-- SQL logo -->
    <img height="12" />
    </td>
 
@@ -72,7 +72,7 @@
     <img width="12" />
      </td>
      <td>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98EumfCtICiwQ9Wujj5I593BgGsA0IALNNQ&s" width="100" height="60" alt="Matplotlib">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="100" height="60" alt="Matplotlib">
      <img width="6" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="60" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->   
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="130" height="55" alt="Plotly">
