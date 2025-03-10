@@ -65,14 +65,14 @@
   </tr>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"  height="80" alt="Spark"> <!-- Spark logo -->
        <img width="12" />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" height="80" alt="NumPy">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  height="80" alt="Pandas">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" height="100" alt="NumPy">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  height="60" alt="Pandas">
     <img width="12" />
      </td>
      <td>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="100" height="60" alt="Matplotlib">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg"  height="80" alt="Matplotlib">
      <img width="6" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="25" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->   
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="15" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->   
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"  height="80" alt="Plotly">
 </td>
 </table>
