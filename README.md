@@ -65,7 +65,7 @@
   </tr>
   <td> <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"  height="80" alt="Spark"> <!-- Spark logo -->
        <img width="12" />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" height="80" alt="NumPy">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="100" height="80" alt="NumPy">
           <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  height="70" alt="Pandas">
     <img width="12" />
      </td>
