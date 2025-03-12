@@ -35,59 +35,30 @@
 
 ###
 
-# 🛠 Технологии:
-<table>
-<tr>
-  <th>Языки</th>
-  <th>Среды разработки
-  </th>
-</tr> 
-<tr>
-  <td>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="80" alt="Python">
-  <img height="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="80" alt="SQL"> <!-- SQL logo -->
-   <img height="12" />
-   </td>
+## 🛠 Навыки и инструменты
 
-  <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="80" alt="VS Code">
- <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="80" alt="Jupyter">
-   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="80" alt="Git">
- </td>
- </tr> 
-</table>
-<table>
-<tr>
- <th>Работа с данными:</th>
-  <th>Визуализация данных:</th>
-  </tr>
-  <td> <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"  height="80" alt="Spark"> <!-- Spark logo -->
-       <img width="12" />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="100" height="80" alt="NumPy">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  height="60" alt="Pandas">
-    <img width="12" />
-     </td>
-     <td>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="100" height="60" alt="Matplotlib">
-     <img width="6" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="25" alt="Seaborn">  <!-- Seaborn logo wider, adjusted width -->   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"  height="80" alt="Plotly">
-</td>
-</table>
+<!-- Языки -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
 
+<!-- Библиотеки ML/DL -->
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
 
-#### ML модели:
-<div style="display: flex; align-items: center;">
- <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" height="30" alt="Scikit-learn">
-  <img width="18" />
-  <img src="https://keras.io/img/keras-logo-small-wb.png" width="40" height="38"  alt="Keras">  <!-- Keras logo -->
-  <!-- Add other ML libraries here -->
-   
-   <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="110" height="55" alt="TensorFlow">
- 
-</div>
+<!-- SQL (PostgreSQL), Spark -->
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+
+<!-- Библиотеки для визуализации -->
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge" alt="Seaborn"/>
+
+<!-- Инструменты -->
+<img src="http://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 ###
 
@@ -354,3 +325,5 @@
  
 </table>
 </details>
+
+Спасибо, что заглянули в мой профиль! Если у вас есть идеи совместных проектов или предложений о работе — пишите, всегда рад(а) новым возможностям.
