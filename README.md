@@ -21,20 +21,6 @@
 
 В марте 2025 года я успешно завершил обучение в Яндекс.Практикуме.  Мое обучение продолжается, я постоянно изучаю новые технологии и углубляю свои знания в Data Science.  Сейчас я в активном поиске своей первой работы и готов применять свои навыки на практике</p>
 
-###
-
-## 📕 Мой pet project
-
-- [х](ссылка)
-
-###
-
-<p align="center">
- <img width="600" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
-###
-
 ## 🛠 Навыки и инструменты
 
 <!-- Языки -->
@@ -51,6 +37,17 @@
 
 <!-- Инструменты -->
 <img src="http://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+###
+
+## 📕 Мой pet project
+
+- [х](ссылка)
+
+###
+
+<p align="center">
+ <img width="600" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ###
 
