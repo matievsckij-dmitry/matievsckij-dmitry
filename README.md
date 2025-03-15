@@ -1,4 +1,3 @@
-
 <h1 align="center" >Привет👋 Меня зовут Дмитрий!</h1>
 
 ###
@@ -33,7 +32,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
 
 <!-- Библиотеки для визуализации -->
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge" alt="Seaborn"/> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 
 <!-- Инструменты -->
 <img src="http://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -52,10 +51,10 @@
 ###
 
 ### 🎓 Сертификаты:
- - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
- - СберУниверситет: Финансовая оценка AI инициатив [RUS](https://github.com/Stuksus/Stuksus/blob/main/sber-university-AI.png)
- - СберУниверситет: Жизненный цикл DS/AI моделей [RUS](https://github.com/Stuksus/Stuksus/blob/main/AI_DS_life_cycle.png)
- - СберУниверситет: Модельный риск и мониторинг моделей [RUS](https://github.com/Stuksus/Stuksus/blob/main/model_risk.png)
+ - Яндекс.Практикум: [Специалист по Data Science](https://github.com/matievsckij-dmitry/matievsckij-dmitry/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_KZ_%D0%9C%D0%B0%D1%82%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_2025-9719-006.pdf)
+ - Stepik: [Основы статистики. Часть I](https://github.com/matievsckij-dmitry/matievsckij-dmitry/blob/main/stepik-certificate-stat-1.pdf)
+ - Stepik: [Основы статистики. Часть II](https://github.com/matievsckij-dmitry/matievsckij-dmitry/blob/main/stepik-certificate-stat-2.pdf)
+ - Stepik: [Основы статистики. Часть III](https://github.com/matievsckij-dmitry/matievsckij-dmitry/blob/main/stepik-certificate-stat-3.pdf)
  
 ###
 
